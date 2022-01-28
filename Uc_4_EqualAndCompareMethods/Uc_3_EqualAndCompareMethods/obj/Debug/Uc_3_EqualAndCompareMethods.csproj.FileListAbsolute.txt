@@ -1,0 +1,8 @@
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\bin\Debug\Uc_3_EqualAndCompareMethods.exe.config
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\bin\Debug\Uc_3_EqualAndCompareMethods.exe
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\bin\Debug\Uc_3_EqualAndCompareMethods.pdb
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\obj\Debug\Uc_3_EqualAndCompareMethods.csproj.AssemblyReference.cache
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\obj\Debug\Uc_3_EqualAndCompareMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\obj\Debug\Uc_3_EqualAndCompareMethods.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\obj\Debug\Uc_3_EqualAndCompareMethods.exe
+C:\Users\ganes\source\repos\Uc_3_EqualAndCompareMethods\Uc_3_EqualAndCompareMethods\obj\Debug\Uc_3_EqualAndCompareMethods.pdb
